@@ -1,0 +1,245 @@
+
+body{
+	background-color: #f2f4f7;
+}
+
+.logo1{
+	width:40px;
+	height:11px;
+	display: inline-block;
+	
+}
+
+Header{
+	display: inline-block;
+	margin-right: 40px;
+	vertical-align: text-top;
+	margin-left: 20px;
+}
+
+ul{
+	list-style: none;
+}
+nav{
+	display: inline-block;
+}
+
+li{
+	display: inline-block;
+	margin-right: 50px;
+	font-size: 11px;
+	vertical-align: text-top;
+	font-size: bold;
+}
+
+.myclass1{
+	margin-left: 140px;
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 80px;
+	margin-bottom:40px ;
+}
+
+.mycard1{
+	display: inline-block;
+	width:360px;
+	height: 350px;
+	margin-left: 40px;
+}
+.inlineb{
+	display: inline-block;
+}
+
+.myclass2{
+	width:360px;
+	height: 180px;
+	position: relative;
+}
+
+.position1{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.position2{
+	position: absolute;
+	top: 28px;
+	left: 40px;
+}
+
+.p1{
+	z-index: 1000;
+	font-size: 16px;
+	color: white;
+	font-weight: bold;
+}
+
+.p2{
+	z-index: 900;
+}
+
+.myclass3{
+	width:360px;
+	height: 180px;
+	background-color: white;
+}
+
+.p3{
+	display: inline-block;
+	width:281px ;
+	height:38px ;
+	margin-left: 40px;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.margin1{
+	margin-left: 40px;
+	margin-right: 10px;
+	vertical-align: text-top;
+}
+
+.myclass4{
+	margin-left: 100px;
+}
+
+.myclass5{
+	margin-left: 140px;
+	margin-top: 58px;
+	margin-bottom: 40px;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.mydiv1{
+	display: inline-block;
+	width: 760px ;
+	height: 1000px;
+	margin-left: 140px;
+	margin-right: 40px;
+	vertical-align: text-top;
+}
+
+.mydiv2 {
+	display: inline-block;
+	width: 360px ;
+	height: 1000px;
+	vertical-align: text-top;
+	
+}	
+.margin22{
+	margin-top: 40px;
+}
+.margin23{
+	margin-top: 102px;
+}
+
+.mydiv3{
+	position: relative;
+
+}
+
+.position3{
+	position: absolute;
+	top: 50%;
+	right: 50%;
+	transform: translate(-50%,-50%);
+	z-index: 1000;
+	font-size: 16px;
+	color: white;
+	font-weight: bold;
+}
+
+
+footer{
+	background-color: #a6adb4 ;
+	height: 200px;
+
+}
+
+.myli1{
+	display:block;
+	font-size: 13px;
+	font-weight: bold;
+	color: #CBD0D3;
+}
+
+.align{
+	vertical-align: text-top;
+}
+
+.margin24{
+	margin-left: 152px;
+	margin-right:116px ;
+}
+
+.margin25{
+	margin-right:133px ;
+}
+ 
+.margin26{
+	margin-right:148px ;
+}
+
+.margin27{
+	margin-right:148px ;
+}
+
+.margin28{
+	margin-right:164px ;
+}
+
+.m2{
+	margin-right:32px ;
+}
+
+.m3{
+	margin-top: 62px;
+}
+
+/*.m4{
+	margin-top: 11px;
+}
+
+.m5{
+	margin-top:11px;*/
+}
+
+.m6{
+	margin-top: 11px;
+}
+
+/*.position4{
+	position: fixed;
+	top:0px;
+	z-index: 10001;
+	vertical-align: text-top;
+
+}
+
+.position5{
+	position: fixed;
+	top:0px;
+	left: 90px;
+	z-index: 10001;
+	vertical-align: text-top;
+}*/
+
+.mysection1{
+	vertical-align: text-top;
+	background-color: #f2f4f7;
+	display: block;
+	width: auto;
+	height: auto;
+	position: fixed;
+	top:0px;
+	z-index: 10001;
+	display: block;
+	width: 1770px;
+	height: 50px;
+
+
+
+}
